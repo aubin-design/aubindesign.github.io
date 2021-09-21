@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio wilfried kouassi / acceuil</title>
+    <!--link;css + tab -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Wilfried kouassi/ graphiste</h1>
+        <nav>
+            <a href="affihe-mca.html">affiche affihe-mca</a>
+            <a href="affihe-zoo.html">affiche affihe zoo</a>
+            <a href="affihe-typo.html">affiche Typographie</a>
+            <a href="a-propos.html">a-propos</a>
+        </nav>
+    </header>
+    
+</body>
+</html>
